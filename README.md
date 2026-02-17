@@ -40,5 +40,5 @@ Sem dependências externas ou frameworks.
 
 ---
 
-## 📂 Estrutura do Projeto
+
 
