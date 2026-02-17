@@ -21,12 +21,12 @@ Objetivo: oferecer uma alternativa simples, rápida e gratuita para criar uma p�
 
 ## Funcionalidades
 
-- ✅ Layout responsivo (mobile-first)
-- ✅ Seção de foto e bio
-- ✅ Lista de links customizáveis
-- ✅ Ícones sociais
-- ✅ Estrutura leve e rápida
-- ✅ Fácil personalização
+-  Layout responsivo (mobile-first)
+-  Seção de foto e bio
+-  Lista de links customizáveis
+-  Ícones sociais
+-  Estrutura leve e rápida
+-  Fácil personalização
 
 ---
 
@@ -34,11 +34,34 @@ Objetivo: oferecer uma alternativa simples, rápida e gratuita para criar uma p�
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla)
+- JavaScript 
 
 Sem dependências externas ou frameworks.
 
 ---
+## Personalização Avançada
 
+Possíveis melhorias:
+
+- Captura de email
+- Inserir Google Analytics
+- Adicionar pixel de rastreamento
+- Dark mode
+- Animações simples em CSS
+
+---
+## Objetivo do Repositório
+
+Este projeto serve como:
+Base para iniciantes
+Template reutilizável
+Projeto simples para portfólio
+Alternativa open-source para página de bio
+
+---
+
+## Licença
+Distribuído sob licença MIT.
+Sinta-se livre para usar, modificar e compartilhar.
 
 
