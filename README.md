@@ -1,21 +1,25 @@
 # Pagina-de-Links-Personalizada
 
 
-Página de links simples, responsiva e personalizável para centralizar perfis, contactos e ofertas digitais.
+Página de links simples, responsiva e personalizada para centralizar links de perfis, contactos e ofertas digitais.
 
 Projecto ideal para quem deseja substituir ferramentas como Linktree por uma solução própria, leve e hospedada em domínio próprio.
+
+## Link do projecto 
+https://sofia-gunza.netlify.app/
 
 ---
 
 ## Sobre o Projeto
 
-Este projeto consiste em uma página estática desenvolvida com:
+Este projeto consiste em uma página desenvolvida com:
 
 - HTML
 - CSS
 - JavaScript básico
 
-Objetivo: oferecer uma alternativa simples, rápida e gratuita para criar uma página de links personalizada.
+Objetivo: oferecer uma alternativa simples, rápida e gratuita para usar uma página de links personalizada.
+
 
 ---
 
@@ -48,20 +52,8 @@ Possíveis melhorias:
 - Adicionar pixel de rastreamento
 - Dark mode
 - Animações simples em CSS
-
----
-## Objetivo do Repositório
-
-Este projeto serve como:
-Base para iniciantes
-Template reutilizável
-Projeto simples para portfólio
-Alternativa open-source para página de bio
-
 ---
 
-## Licença
-Distribuído sob licença MIT.
-Sinta-se livre para usar, modificar e compartilhar.
+
 
 
