@@ -6,7 +6,7 @@ Página de links simples, responsiva e personalizada para centralizar links de p
 Projecto ideal para quem deseja substituir ferramentas como Linktree por uma solução própria, leve e hospedada em domínio próprio.
 
 ## Link do projecto 
-https://linke-cridlesianetlify.app/
+https://linke-cridlesia.netlify.app/
 
 ---
 
